@@ -5,8 +5,8 @@
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
-        "start": "node index.js",
-        "letsgo": "nodemon index.js"
+        "start": "node server/index.js",
+        "letsgo": "nodemon server/index.js"
     },
     "author": "kyu_holic",
     "license": "ISC",
